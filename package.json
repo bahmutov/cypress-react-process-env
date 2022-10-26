@@ -32,7 +32,7 @@
     ]
   },
   "keywords": [],
-  "description": "",
+  "description": "Example mocking process.env in Cypress React component tests",
   "devDependencies": {
     "cypress": "^10.11.0",
     "prettier": "^2.7.1"
