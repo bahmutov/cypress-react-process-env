@@ -35,6 +35,7 @@
   "description": "Example mocking process.env in Cypress React component tests",
   "devDependencies": {
     "cypress": "^10.11.0",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "start-server-and-test": "^1.14.0"
   }
 }
