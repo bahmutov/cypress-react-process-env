@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 
 function App() {
-  const env = window.process?.env || process.env
+  const env = { ...process.env, ...window.process?.env }
   return (
     <div className="App">
       <h1>{env.REACT_APP_TITLE}</h1>
