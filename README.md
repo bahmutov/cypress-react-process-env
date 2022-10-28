@@ -2,6 +2,10 @@
 
 > Example mocking process.env in Cypress React component tests
 
+![Component test with mocked process.env](./images/component-test.png)
+
+See [spec.cy.js](./cypress/e2e/spec.cy.js) and [App.cy.js](./src/App.cy.js)
+
 ## Small print
 
 Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2022
